@@ -62,4 +62,5 @@ print(my_linked_list.pop())
     1
     None
 
+
 """
