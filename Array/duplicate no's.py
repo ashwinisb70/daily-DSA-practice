@@ -1,0 +1,7 @@
+arr=[1,3,4,2,2]
+seen=set()
+for num in arr:
+    if num in seen:
+        print("duplicate no.s:",num)
+        break
+    seen.add(num)
