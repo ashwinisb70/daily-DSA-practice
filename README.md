@@ -20,3 +20,8 @@
 3. Merge Arrays – Combine two sorted arrays into one sorted array.
 4. Find Missing Number – Detect the missing number in a sequence.
 5. Move Zeros – Shift all zero values to the end of the array while maintaining order.
+6. Intersection of Two Arrays – Find the common elements present in both arrays.
+7. Cycle Rotate an Array by One – Rotate the array elements to the right by one position.
+8. Find Majority Element – Identify the element that appears more than n/2 times in the array.
+9. Rearrange Array Alternately – Arrange positive and negative numbers alternately in the array.
+10. Find Subarray with Given Sum – Detect a continuous subarray whose sum equals a given target value.
