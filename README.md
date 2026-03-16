@@ -25,3 +25,11 @@
 8. Find Majority Element – Identify the element that appears more than n/2 times in the array.
 9. Rearrange Array Alternately – Arrange positive and negative numbers alternately in the array.
 10. Find Subarray with Given Sum – Detect a continuous subarray whose sum equals a given target value.
+11. Subarray with 0 Sum Exists – Determine whether a continuous subarray exists whose total sum equals zero.
+12. Longest Consecutive Sequence – Find the length of the longest sequence of consecutive integers in an unsorted array.
+13. Two Sum – Identify two numbers in an array whose sum equals a given target value.
+14. Median of Two Arrays – Compute the median value from two sorted arrays.
+15. Kth Largest Element – Find the kth largest element in an unsorted array.
+16. Product of Array Except Itself – Generate an array where each element is the product of all other elements except itself.
+17. Rotate Array by K – Rotate the elements of an array to the right by k positions.
+18. Pairs with Given Sum – Find all pairs of elements whose sum equals a specified target value.
