@@ -33,9 +33,9 @@
 16. Product of Array Except Itself – Generate an array where each element is the product of all other elements except itself.
 17. Rotate Array by K – Rotate the elements of an array to the right by k positions.
 18. Pairs with Given Sum – Find all pairs of elements whose sum equals a specified target value.
-19. # Strings
-20. Reverse a String – Reverse the given string and return the result.
-21. Palindrome Check – Determine whether a string reads the same forward and backward.
-22. First Non-Repeating Character – Find the first character in a string that appears only once.
-23. Longest Substring Without Repeating Characters – Find the length of the longest substring with all unique characters.
-24. Anagram Check – Check if two strings contain the same characters with the same frequency.
+# Strings
+1. Reverse a String – Reverse the given string and return the result.
+2. Palindrome Check – Determine whether a string reads the same forward and backward.
+3. First Non-Repeating Character – Find the first character in a string that appears only once.
+4. Longest Substring Without Repeating Characters – Find the length of the longest substring with all unique characters.
+5. Anagram Check – Check if two strings contain the same characters with the same frequency.
