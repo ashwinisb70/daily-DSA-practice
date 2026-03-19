@@ -39,3 +39,9 @@
 3. First Non-Repeating Character – Find the first character in a string that appears only once.
 4. Longest Substring Without Repeating Characters – Find the length of the longest substring with all unique characters.
 5. Anagram Check – Check if two strings contain the same characters with the same frequency.
+6. strStr() (Substring Search) – Find the index of a substring in a given string.
+7. Count and Say – Generate a sequence by counting consecutive digits.
+8. Longest Palindromic Substring – Find the longest substring that reads the same forward and backward.
+9. Zigzag Conversion – Convert a string into a zigzag pattern based on rows.
+10. String to Integer (atoi) – Convert a string into an integer handling spaces and signs.
+
