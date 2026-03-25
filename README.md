@@ -44,4 +44,9 @@
 8. Longest Palindromic Substring – Find the longest substring that reads the same forward and backward.
 9. Zigzag Conversion – Convert a string into a zigzag pattern based on rows.
 10. String to Integer (atoi) – Convert a string into an integer handling spaces and signs.
+11. Group Anagrams – Group strings that are anagrams of each other based on sorted characters.
+12. Multiply Two Large Numbers (Strings) – Multiply two numbers represented as strings without converting directly to integers.
+13. Roman to Integer – Convert a Roman numeral into its corresponding integer value.
+14. Integer to Roman – Convert an integer into its Roman numeral representation.
+15. Valid Parentheses – Check if the given string of brackets is valid using proper opening and closing order.
 
